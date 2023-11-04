@@ -20,8 +20,7 @@ def get_city_temperature(city):
       return 17
    if city == "San Francisco":
       return 16
- if city == "New York":
-      return 14
+
 def get_city_weather(city):
 
   sky_condition = None
